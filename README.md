@@ -30,7 +30,6 @@ Describe any challenges encountered while building the app.
 -Emulator incredibly slow, changes would not always work. Would have to keep restarting Android studio and restarting computer/cool down computer. 
 
 ### Open-source libraries used
-_______________________________________________________________________________________________________________________________________________________________
 
  ## Flix Part 2
 
